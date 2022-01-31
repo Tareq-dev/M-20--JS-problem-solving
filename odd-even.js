@@ -8,3 +8,9 @@ function isEven(num){
 const myNumber = 45878;
 const isEvenNumber = isEven(myNumber);
 console.log(isEvenNumber);
+
+
+
+
+
+
