@@ -13,7 +13,7 @@ function animalCalculator(depth){
         var firstPart = 10*15;
         var remaining = depth - 10;
         var secondPart = remaining *30;
-        animal = firstPart + secondPart;
+        animal = firstPart +  secondPart;
     }
     else {
          var firstPart = 10*15;

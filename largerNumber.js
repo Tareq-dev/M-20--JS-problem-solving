@@ -12,4 +12,4 @@ function largerNumber(numbers){
 var numbers = [12, 13, 14, 15, 16, 17, 18, 19, 20];
 var output = largerNumber(numbers);
 
-console.log('output' , output);
+console.log('larger number:' , output);

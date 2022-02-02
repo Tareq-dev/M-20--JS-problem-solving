@@ -4,6 +4,7 @@
 // fibo[4] = fibo[4-1] + fibo[4-2];
 // fibo[5] = fibo[5-1] + fibo[5-2];
 // fibo[i] = fibo[i-1] + fibo[i-2];
+// fibo[n] = fibo[n-1] + fibo[n-2];
 // the value of i is always start from 2 .
 
 function fibonacci(n){
